@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Fahima",
+    "email": "fahima@example.com",
+    "note": "Sample contact for API testing"
+  },
+  {
+    "id": 2,
+    "name": "CodeOrbit",
+    "email": "codeorbit@example.com",
+    "note": "Internship project record"
+  }
+]
